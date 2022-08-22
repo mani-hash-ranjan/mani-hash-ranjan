@@ -3,6 +3,15 @@
 
 - 🔭 I’m currently working on **Buildinig CICD pipeline project**
 
+## **A REVIEW OF MY RECENT PROJECTS**
+1. **BLACKJACK GAME BASED ON REINFORCEMENT LEARNING ** 
+2. **TWITTER SENTIMENT ANALYSIS** 
+3. **CRYPTO CURRENCY PRICE PREDICTION THROUGH TIME SERIES ANALYSIS** 
+4. **SOCIAL MEDIA FAKE NEWS PREDICTION** 
+5. **WORLD POPULATION TABLEAU DASHBOARD** 
+
+## *Check out my repositories for more information about my coursework and independent projects.*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manish-ranjan-593a8a31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-ranjan-593a8a31" height="30" width="40" /></a>
